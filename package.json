@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aneagoie.github.io/robofriends-latest/",
+  "homepage": "https://github.com/gabrieliulian595-source/robofriends.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
